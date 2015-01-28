@@ -70,6 +70,7 @@
       "example": "examples",
       "lib": "dist"
     },
+    "files":["less"],
     "shim": {
       "js/bootstrap": {
         "imports": "jquery",
